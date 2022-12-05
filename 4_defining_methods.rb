@@ -7,7 +7,7 @@
 
 # add_ten
 # takes one number as an arg (argument)
-# adds ten and returns the new value
+# adds ten and return the new value
 # example: the arg is 5
 # returns 15
 

@@ -21,7 +21,7 @@ end
 # if the greeting is 'hello'
 # return 'hi'
 # if the greeting is anything else
-# return the greeting that was received
+# return the greeting that was receive
 def reply_to(greeting)
   if greeting == "good morning"
     return "good morning to you too"

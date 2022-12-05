@@ -50,7 +50,7 @@ def substitute_hello_with_goodbye(string)
   string.gsub("hello", "goodbye")
 end
 
-# TASK: define a method that returns a string that has removed all vowels from a given string.
+# TASK: define a method that returns a string that has removed all vowel from a given string.
 # EXAMPLE INPUT/OUTPUT:
 # when the string is 'hullabaloo'
 # the method should return 'hllbl'

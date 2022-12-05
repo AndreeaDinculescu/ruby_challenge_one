@@ -5,7 +5,7 @@
 # It's possible to complete each challenge using a single method
 # Use the Ruby Docs and Google liberally
 
-# String methods
+# String method
 
 # TASK: define a method that returns a string that is the same as a given string, but converted to upper-case characters.
 # EXAMPLE INPUT/OUTPUT:
